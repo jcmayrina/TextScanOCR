@@ -15,7 +15,9 @@ It uses Google's ML kit vision to recognize text in images.
 
 ## Demo
 
-![SVID_20231013_155415_1 (2)](https://github.com/jcmayrina/TextScanOCR/assets/53328522/c6e4e5f5-1aa2-4b33-985e-9266f3a5fc74)
+<video src="[movie.ogg](https://github.com/jcmayrina/TextScanOCR/assets/53328522/c6e4e5f5-1aa2-4b33-985e-9266f3a5fc74)" controls>
+  Your browser does not support the video tag.
+</video>
 
 
 ## Screenshots
