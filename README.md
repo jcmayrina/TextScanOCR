@@ -20,10 +20,10 @@ It uses Google's ML kit vision to recognize text in images.
 
 ## Screenshots
 
-![Screenshot_20231013_154855_com mayrina_jc textscanocrv2](https://github.com/jcmayrina/TextScanOCR/assets/53328522/08ef6164-b40a-48a8-822f-76f9db965c6f | width=20)
-![Screenshot_20231013_154857_com mayrina_jc textscanocrv2](https://github.com/jcmayrina/TextScanOCR/assets/53328522/84fefca2-1197-49f7-956e-c33cb5e1e255 | width=20)
-![Screenshot_20231013_154921_com huawei camera](https://github.com/jcmayrina/TextScanOCR/assets/53328522/845aac7d-0722-4d8f-9f83-f18ff43ff2f6 | width=20)
-![Screenshot_20231013_154933_com mayrina_jc textscanocrv2](https://github.com/jcmayrina/TextScanOCR/assets/53328522/20242a52-be8e-43dd-8092-46dec0921c2c | width=20)
+<img src="https://github.com/jcmayrina/TextScanOCR/assets/53328522/08ef6164-b40a-48a8-822f-76f9db965c6f" width="50">
+<img src="https://github.com/jcmayrina/TextScanOCR/assets/53328522/84fefca2-1197-49f7-956e-c33cb5e1e255" width="50">
+<img src="https://github.com/jcmayrina/TextScanOCR/assets/53328522/845aac7d-0722-4d8f-9f83-f18ff43ff2f6" width="50">
+<img src="https://github.com/jcmayrina/TextScanOCR/assets/53328522/20242a52-be8e-43dd-8092-46dec0921c2c" width="50">
 
 
 ## 🔗 Links
